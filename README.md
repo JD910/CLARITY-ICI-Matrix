@@ -153,8 +153,7 @@ extend to additional endpoints or populations
 
 If you use this code or workflow, please cite:
 
-Clinical Attribute–Based Risk Matrix for Prognostication in Immunotherapy-Treated Non-Small-Cell Lung Cancer:  
-An Individual-Patient Data Analysis of 17,051 Patients
+Clinical Attribute–Based Risk Matrix for Prognostication in Immunotherapy-Treated Non-Small Cell Lung Cancer
 
 ---
 
